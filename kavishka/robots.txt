@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vinodjangid.site/sitemap.xml
+Sitemap: https://kavishkadileepa01.github.io/kavishka-dileepa-portfolio-02/kavishka/sitemap.xml
